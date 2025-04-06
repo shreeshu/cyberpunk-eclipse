@@ -1,0 +1,25 @@
+{
+  "name": "cyberpunk-eclipse",
+  "displayName": "cyberpunk-eclipse",
+  "description": "Cyberpunk Eclipse, a theme with various Cyberpunk-themed colours",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.99.0"
+  },
+  "repository": {
+  "type": "git",
+  "url": "https://github.com/shreeshu/cyberpunk-eclipse"
+},
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Cyberpunk Eclipse",
+        "uiTheme": "vs",
+        "path": "./themes/Cyberpunk Eclipse-color-theme.json"
+      }
+    ]
+  }
+}
