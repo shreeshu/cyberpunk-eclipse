@@ -2,6 +2,8 @@
   "name": "cyberpunk-eclipse",
   "displayName": "cyberpunk-eclipse",
   "description": "Cyberpunk Eclipse, a theme with various Cyberpunk-themed colours",
+  "publisher": "shreeshu-themes",
+  "license": "MIT",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.99.0"
