@@ -1,16 +1,7 @@
-# cyberpunk-eclipse README
+# Cyberpunk Eclipse
 
-## Working with Markdown
+[![Install Cyberpunk Eclipse](https://img.shields.io/visual-studio-marketplace/v/shreeshu05.cyberpunk-eclipse?style=for-the-badge&label=Cyberpunk%20Eclipse&color=9D00FF&logo=visual-studio-code&logoColor=white)](https://marketplace.visualstudio.com/items?itemName=shreeshu05.cyberpunk-eclipse)
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
-
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
-
-## For more information
-
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
-
-**Enjoy!**
+A bold, neon-lit cyberpunk theme for VS Code. Designed to give your code the vibes of a futuristic dystopia. 🌃🖤
+![VS Code](https://img.shields.io/badge/Built%20for-VS%20Code-blue?style=for-the-badge&logo=visual-studio-code)
+![License](https://img.shields.io/badge/License-MIT-purple?style=for-the-badge)
